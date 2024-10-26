@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+        "id": "3190",
+        "title": "JavaScript",
+        "author": "Armen Marjinyan",
+        "rate": null,
+        "photo": "https://media.licdn.com/dms/image/v2/D4E22AQFSlaphsltKnA/feedshare-shrink_800/feedshare-shrink_800/0/1693815106336?e=2147483647&v=beta&t=kX3Mc3kROQ0LH4nXhUxXo-_S9TqL-2_AeqXEJTEkwiI"
+    },
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rate": null,
+      "photo": "https://m.media-amazon.com/images/I/81eyr8gG8NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Stranger",
+      "author": "Albert Camus",
+      "rate": null,
+      "photo": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400"
+    }
+
+  ],
+  "comments": [
+    {
+      "id": "103",
+      "text": "Such a great book",
+      "rate": 5,
+      "book": "101"
+    },
+    {
+      "id": "104",
+      "text": "good book",
+      "rate": 3,
+      "book": "101"
+    },
+    {
+      "id": "e5d5",
+      "text": "very good book for fulstack developers",
+      "rate": 5,
+      "book": "3190"
+    }
+  ]
+}
